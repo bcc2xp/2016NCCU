@@ -10,9 +10,9 @@
 
 
 #### Python 編程 (密碼 nccudm)
--- https://www.slideshare.net/secret/1GSEl1wbGPhZgo
+- https://www.slideshare.net/secret/1GSEl1wbGPhZgo
 
 #### ETL 基礎 (密碼 nccudm)
--- https://www.slideshare.net/secret/F94C9wHISveaK
+- https://www.slideshare.net/secret/F94C9wHISveaK
 
 
