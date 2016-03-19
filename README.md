@@ -28,4 +28,7 @@
 #### ETL 基礎 (密碼 nccudm)
 - https://www.slideshare.net/secret/F94C9wHISveaK
 
+#### Python 與監督式學習 (密碼 nccudm)
+- https://www.slideshare.net/secret/1GSEl1wbGPhZgo
+
 
